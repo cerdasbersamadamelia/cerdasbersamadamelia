@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Damelia</h1>
 
-- 🔭 I’m interested in **web dev, blockchain**
+- 🔭 I’m interested in **web development, blockchain**
 
 - 🌱 I’m currently learning **blockchain development**
 
-- 👯 I’m looking to collaborate on **on app development or blockchain related projects**
+- 👯 I’m looking to collaborate on **web development or blockchain related projects**
 
 - 📫 How to reach me **damelia.te18@gmail.com**
 
