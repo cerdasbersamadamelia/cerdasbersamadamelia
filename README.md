@@ -8,7 +8,10 @@
 
 - 📫 How to reach me **damelia.te18@gmail.com**
 
-- 👨‍💻 My Project: [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/)
+- 👨‍💻 Here's the example of my project:
+
+  [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/),
+  more...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
