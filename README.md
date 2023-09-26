@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damelia</h1>
 
-- 🔭 I’m interested in **web development, blockchain**
+- 🔭 I’m interested in **data science, web development, blockchain**
 
 - 🌱 I’m currently learning **blockchain development**
 
