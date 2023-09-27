@@ -11,7 +11,7 @@
 
 - 👨‍💻 Here's my project:
 
-1. [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/). Account: asri/$bigData5G
+1. [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/) (Account: asri / $bigData5G)
 2. loading...
 
 <h3 align="left">Connect with me:</h3>
