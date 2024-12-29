@@ -11,8 +11,8 @@
 
 - 👨‍💻 Here's my project:
 
-1. [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/) (username: asri | pass: $bigData5G)
-2. https://huggingface.co/spaces/damelia/body-goals
+1. [BigData5G](http://bigdata5g.infinityfreeapp.com/) (username: asri | pass: $bigData5G)
+2. [Get Your Body Goals Here](https://huggingface.co/spaces/damelia/body-goals)
 3. loading...
 
 <h3 align="left">
