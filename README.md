@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **AI & WEB3**
 
-- 🌱 I’m currently learning **Artificial Intelligence on Skill Academy by Ruang Guru**
+- 🌱 I’m currently learning **AI on Skill Academy by Ruang Guru**
 
 - 👯 I’m looking to collaborate on **AI or WEB3 related projects**
 
