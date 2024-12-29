@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Damelia</h1>
 <img align="right" alt="Coding" width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-- 🔭 I’m interested in **AI, web3**
+- 🔭 I’m interested in **AI & WEB3**
 
-- 🌱 I’m currently learning **Artificial intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence on Skill Academy by Ruang Guru**
 
-- 👯 I’m looking to collaborate on **AI or web development related projects**
+- 👯 I’m looking to collaborate on **AI or WEB3 related projects**
 
 - 📫 How to reach me **damelia.te18@gmail.com**
 
 - 👨‍💻 Here's my project:
 
-1. [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/) (Account: asri / $bigData5G)
+1. [http://bigdata5g.infinityfreeapp.com/](http://bigdata5g.infinityfreeapp.com/) (username: asri | pass: $bigData5G)
 2. https://huggingface.co/spaces/damelia/body-goals
 3. loading...
 
