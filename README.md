@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/dameliaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dameliaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cerdasbersamadamelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cerdas bersama damelia" height="30" width="40" /></a>
 <a href="https://instagram.com/lia.damel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lia.damel" height="30" width="40" /></a>
+<a href="https://huggingface.co/damelia" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ea05dc34-2426-4afb-840b-57b06ca11086" alt="lia.damel" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
