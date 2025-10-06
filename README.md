@@ -15,7 +15,7 @@
 2. [Network Issue Diagnoser](https://huggingface.co/spaces/damelia/network_issue_diagnoser) 2025
 3. [Get Your Body Goals](https://huggingface.co/spaces/damelia/body-goals) 2024
 4. [Big Data 5G](http://bigdata5g.infinityfreeapp.com/) 2022. (username: asri | pass: $bigData5G)
-5. loading...
+5. Thinking...
 
 <h3 align="left">
 <p align="left">
