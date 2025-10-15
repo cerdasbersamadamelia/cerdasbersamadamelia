@@ -11,7 +11,7 @@
 
 - 👨‍💻 Here's my project:
 
-1. [Customer Revenue Uplift](https://huggingface.co/spaces/damelia/Customer-Revenue-Uplift) 2025
+1. [Customer Revenue Uplift](https://customer-revenue-uplift.streamlit.app/) 2025
 2. [VIP Complaint Prediction](https://vip-complaint-prediction.streamlit.app/) 2025
 3. [Network Issue Diagnoser](https://huggingface.co/spaces/damelia/network_issue_diagnoser) 2025
 4. [Get Your Body Goals](https://huggingface.co/spaces/damelia/body-goals) 2024
