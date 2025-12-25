@@ -11,12 +11,13 @@
 
 - 👨‍💻 Here's my project:
 
-1. [Customer Revenue Uplift](https://customer-revenue-uplift.streamlit.app/) 2025
-2. [VIP Complaint Prediction](https://vip-complaint-prediction.streamlit.app/) 2025
-3. [Network Issue Diagnoser](https://huggingface.co/spaces/damelia/network_issue_diagnoser) 2025
-4. [Get Your Body Goals](https://huggingface.co/spaces/damelia/body-goals) 2024
-5. [Big Data 5G](http://bigdata5g.infinityfreeapp.com/) 2022. (username: asri | pass: $bigData5G)
-6. Thinking...
+1. [AI Data Assistant](https://ai-data-assistant-damelia.streamlit.app/) 2025
+2. [Customer Revenue Uplift](https://customer-revenue-uplift.streamlit.app/) 2025
+3. [VIP Complaint Prediction](https://vip-complaint-prediction.streamlit.app/) 2025
+4. [Network Issue Diagnoser](https://huggingface.co/spaces/damelia/network_issue_diagnoser) 2025
+5. [Get Your Body Goals](https://huggingface.co/spaces/damelia/body-goals) 2024
+6. [Big Data 5G](http://bigdata5g.infinityfreeapp.com/) 2022. (username: asri | pass: $bigData5G)
+7. Thinking...
 
 <h3 align="left">
 <p align="left">
