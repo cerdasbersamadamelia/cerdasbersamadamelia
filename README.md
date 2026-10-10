@@ -16,7 +16,7 @@
 3. [VIP Complaint Prediction](https://vip-complaint-prediction.streamlit.app/) 2025
 4. [Network Issue Diagnoser](https://huggingface.co/spaces/damelia/network_issue_diagnoser) 2025
 5. [Get Your Body Goals](https://huggingface.co/spaces/damelia/body-goals) 2024
-6. [Big Data 5G](http://bigdata5g.com/) 2022.
+6. [Big Data 5G](http://bigdata5g.com/) 2022
 7. Thinking...
 
 <h3 align="left">
